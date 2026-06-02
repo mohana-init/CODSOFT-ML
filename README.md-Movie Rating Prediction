@@ -1,0 +1,21 @@
+🎬 Movie Rating Prediction
+📌 Overview
+
+This project predicts movie ratings using Machine Learning based on features like genre, cast, and other movie details.
+
+🛠️ Tools Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+⚙️ Steps
+Data cleaning
+Data analysis
+Feature selection
+Model training
+Prediction
+📊 Output
+
+The model predicts the rating of a movie based on input features.
